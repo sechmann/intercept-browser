@@ -1,0 +1,10 @@
+[Default Applications]
+text/html=intercept-browser.desktop
+x-scheme-handler/http=intercept-browser.desktop
+x-scheme-handler/https=intercept-browser.desktop
+x-scheme-handler/about=intercept-browser.desktop
+x-scheme-handler/unknown=intercept-browser.desktop
+x-scheme-handler/msteams=teams.desktop
+
+[Added Associations]
+image/heif=gimp.desktop;feh.desktop;

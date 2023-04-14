@@ -1,0 +1,13 @@
+[Desktop Entry]
+Categories=GNOME;GTK;Network;WebBrowser;
+Comment=Intercepts Browser opens and rewrites some urls
+Exec=/home/vegar/scripts/intercept-browser.sh %u
+GenericName=Web Browser
+Keywords=Internet;WWW;Browser;Web;Explorer
+Name=Intercept Browser
+NoDisplay=true
+StartupNotify=true
+Terminal=false
+Type=Application
+X-MultipleArgs=false
+MimeType=x-scheme-handler/unknown;x-scheme-handler/about;text/html;text/xml;application/xhtml+xml;application/xml;application/rss+xml;application/rdf+xml;image/gif;image/jpeg;image/png;x-scheme-handler/http;x-scheme-handler/https;video/webm;application/x-xpinstall;
