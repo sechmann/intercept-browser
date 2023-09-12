@@ -1,6 +1,6 @@
 Script used to intercept default browser
 
-Files in this repo is just for inspiration.
+Files in this repo are just for inspiration.
 
 File locations:
 ```
